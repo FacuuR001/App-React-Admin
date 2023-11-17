@@ -35,5 +35,8 @@ Este repositorio contiene el esqueleto de una aplicación de React. Tu tarea ser
 6. **Subir código a la UVE**:
    Comprimir los archivos del proyecto y subirlo como entrega de la actividad.
 
+Email y password para poder ingresar:
+Email: ruben@example.com
+password: desaFrontend2023
 
 # App-React-Admin
